@@ -128,3 +128,4 @@ avg_injuries <- data %>%
 cat("死亡受傷人數的平均值:\n")
 print(avg_injuries)
 
+
